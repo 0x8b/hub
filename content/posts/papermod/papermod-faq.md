@@ -4,7 +4,7 @@ summary: We'll try to answer frequently asked qestions by users.
 date: 2021-01-20
 aliases: ["/papermod-how-to-guide"]
 tags: ["PaperMod", "Docs"]
-author: ["PaperMod Contributors"]
+author: ["Mariusz Gumienny"]
 draft: true
 aliases: [/posts/papermod/papermod-how-to]
 weight: 3

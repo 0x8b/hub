@@ -1,7 +1,7 @@
 baseURL: "https://0x8b.github.io/hub"
 title: Hub
 copyright: ""
-paginate: 5
+paginate: 20
 theme: [custom]
 
 enableInlineShortcodes: true
@@ -38,11 +38,45 @@ languages:
           weight: 10
         - name: GitHub
           url: https://github.com/0x8b
+  pl:
+    languageName: ":pl:"
+    weight: 2
+    title: Hub
+    taxonomies:
+      category: kategorie
+      tag: tagi
+      series: serie
+    menu:
+      main:
+        - name: Archiwum
+          url: archives
+          weight: 5
+        - name: Wyszukiwarka
+          url: search
+          weight: 10
+        - name: Tagi
+          url: tags
+          weight: 10
+        - name: GitHub
+          url: https://github.com/0x8b
+    params:
+      languageAltTitle: French
+      profileMode:
+        enabled: true
+        title: Mariusz Gumienny
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: "Mariusz Gumienny - zdjęcie profilowe"
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Linkedin
+            url: https://www.linkedin.com/in/mariusz-gumienny/
 
   fr:
     languageName: ":fr:"
     weight: 2
-    title: PaperModL2
+    title: Hub
     taxonomies:
       category: FRcategories
       tag: FRtags

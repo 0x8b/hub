@@ -5,7 +5,7 @@ date: 2021-01-20
 weight: 2
 aliases: ["/papermod-features"]
 tags: ["PaperMod", "Docs"]
-author: ["Aditya Telange"]
+author: ["Mariusz Gumienny"]
 ---
 
 ### Intro

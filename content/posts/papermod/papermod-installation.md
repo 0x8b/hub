@@ -6,7 +6,7 @@ series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
-author: ["Aditya Telange"]
+author: ["Mariusz Gumienny"]
 cover:
   image: images/papermod-cover.png
   hiddenInList: true

@@ -6,11 +6,13 @@
 .post-title {
     margin-bottom: 2px;
     font-size: 40px;
+    text-align: center;
 }
 
 .post-description {
     margin-top: 10px;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 .post-meta,
@@ -19,6 +21,7 @@
     font-size: 14px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .post-meta .i18n_list li {
@@ -304,6 +307,7 @@
 .post-tags {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 10px;
 }
 
@@ -311,7 +315,7 @@
     display: inline-block;
 }
 
-.post-tags a,
+
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
@@ -322,13 +326,13 @@
 .post-tags a {
     display: block;
     padding: 0 14px;
-    color: var(--secondary);
+    color: var(--primary);
     font-size: 14px;
-    line-height: 34px;
-    background: var(--code-bg);
+    line-height: 24px;
+    border-radius: 50px;
+    border: 2px solid black;
 }
 
-.post-tags a:hover,
 .paginav a:hover {
     background: var(--border);
 }

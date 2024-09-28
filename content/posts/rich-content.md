@@ -1,5 +1,5 @@
 ---
-author: ["Hugo Authors", "PaperMod Contributors"]
+author: ["Mariusz Gumienny", "Pan Tadeusz"]
 title: "Rich Content and Shortcodes"
 date: "2019-03-10"
 description: "A brief description of Hugo Shortcodes"

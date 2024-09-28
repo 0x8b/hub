@@ -1,5 +1,5 @@
 ---
-author: ["Aditya Telange"]
+author: ["Mariusz Gumienny"]
 title: "Code Syntax Guide"
 date: "2019-03-10"
 description: "Sample article showcasing basic code syntax and formatting for HTML elements."
