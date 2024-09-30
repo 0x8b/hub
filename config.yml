@@ -1,4 +1,4 @@
-baseURL: "https://0x8b.github.io/hub"
+baseURL: "https://0x8b.github.io"
 title: Hub
 copyright: ""
 paginate: 20
@@ -138,6 +138,7 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
+  ShowWordCount: false
   ShowToc: true
   # comments: false
   images: ["images/papermod-cover.png"]
