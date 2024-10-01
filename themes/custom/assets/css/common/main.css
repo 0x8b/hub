@@ -50,14 +50,16 @@ pre {
 .copy-code {
     display: none;
     position: absolute;
-    top: 4px;
-    right: 4px;
-    color: rgba(255, 255, 255, 0.8);
-    background: rgba(78, 78, 78, 0.8);
+    background-color: rgb(240, 240, 240);
+    color: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
     padding: 0 5px;
     font-size: 14px;
     user-select: none;
+    top: 10px;
+    right: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 div.highlight:hover .copy-code,

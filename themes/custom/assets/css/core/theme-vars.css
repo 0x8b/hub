@@ -1,8 +1,8 @@
 :root {
     --gap: 24px;
-    --content-gap: 20px;
+    --content-gap: 40px;
     --nav-width: 1024px;
-    --main-width: 720px;
+    --main-width: 900px;
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
@@ -12,7 +12,7 @@
     --secondary: rgb(0, 0, 0);
     --tertiary: #fddb29;
     --content: rgb(0, 0, 0);
-    --code-block-bg: rgb(28, 29, 33);
+    --code-block-bg: white;
     --code-bg: rgb(255, 255, 255);
     --border: rgb(22, 22, 22);
 }
